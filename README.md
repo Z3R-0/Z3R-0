@@ -5,6 +5,7 @@ I’m interested in:
 * The .NET Framework
 * Rust
 * AVR and Microcontrollers
+* Raspberry Pi
 * Open source programming
 
 I’m currently learning:
