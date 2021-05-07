@@ -3,6 +3,8 @@ I’m interested in:
 * The C family of languages, specifically C and C#.
 * Unity
 * The .NET Framework
+* Rust
+* AVR and Microcontrollers
 * Open source programming
 
 I’m currently learning:
