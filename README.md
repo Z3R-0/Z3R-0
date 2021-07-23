@@ -9,7 +9,8 @@ I’m interested in:
 * Open source programming
 
 I’m currently learning:
-* ASP.NET 
+* Javascript
+* Full stack development (MERN)
 * Transpiled programming languages
 * Test Driven Development
 
