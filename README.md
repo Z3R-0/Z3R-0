@@ -1,21 +1,34 @@
 Hi, I’m @Z3R-0.
+
+I like to chase whatever coding concept catches my interest and sometimes struggle to bring them to a close...
+
+My work is generally published under MIT license and I encourage anyone interested to take whatever they can use!
+
 I’m interested in:
 * The C family of languages, specifically C and C#.
 * Unity
 * The .NET Framework
-* Rust
 * AVR and Microcontrollers
 * Raspberry Pi
 * Open source programming
 
 I’m currently learning:
-* Javascript
-* Full stack development (MERN)
+* EF Core and general database connections
+* Data storage and caching
 * Transpiled programming languages
-* Test Driven Development
 
 I’m looking to collaborate on
 * Any project that fits the above descriptions
+
+</br></br>
+
+I also like birds, here's an OSS dancing parrot:
+
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+</div>
+
+Sourced from [Party Parrots](https://cultofthepartyparrot.com/)
 
 ## 💻 GitHub statistics
 <!---
