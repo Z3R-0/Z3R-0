@@ -45,6 +45,7 @@ Sourced from [Party Parrots](https://cultofthepartyparrot.com/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z3R-0&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ![Z3R-0's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Z3R-0&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+</br>
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Z3R-0&layout=compact&theme=radical)
 
 <!---
