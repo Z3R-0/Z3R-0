@@ -1,24 +1,16 @@
 Hi, I’m @Z3R-0.
 
-I like to chase whatever coding concept catches my interest and sometimes struggle to bring them to a close...
+I like to chase whatever coding concept catches my interest and sometimes, usually, struggle to bring them to a close...
 
 My work is generally published under MIT license and I encourage anyone interested to take whatever they can use!
 
 I’m interested in:
 * The C family of languages, specifically C and C#.
-* Unity
+* Game development, specifically Unity and Godot
 * The .NET Framework
 * AVR and Microcontrollers
 * Raspberry Pi
 * Open source programming
-
-I’m currently learning:
-* EF Core and general database connections
-* Data storage and caching
-* Transpiled programming languages
-
-I’m looking to collaborate on
-* Any project that fits the above descriptions
 
 </br></br>
 
