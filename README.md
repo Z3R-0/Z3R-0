@@ -1,6 +1,6 @@
 Hi, I’m @Z3R-0.
 
-I like to chase whatever coding concept catches my interest and sometimes, usually, struggle to bring them to a close...
+I like to chase whatever coding concept catches my interest, though I may sometimes, usually..., struggle to bring them to a close...
 
 My work is generally published under MIT license and I encourage anyone interested to take whatever they can use!
 
