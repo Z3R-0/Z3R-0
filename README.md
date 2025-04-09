@@ -5,12 +5,12 @@ I like to chase whatever coding concept catches my interest, though I may someti
 My work is generally published under MIT license and I encourage anyone interested to take whatever they can use!
 
 I’m interested in:
-* The C family of languages, specifically C and C#.
+* The C family of languages, specifically C and C#/.NET
 * Game development, specifically Unity and Godot
-* The .NET Framework
-* AVR and Microcontrollers
-* Raspberry Pi
+* Microcontrollers, SBC's (Raspberry Pi) and FPGA's
 * Open source programming
+* Development paradigms and philosophies
+* Software architecture
 
 </br></br>
 
