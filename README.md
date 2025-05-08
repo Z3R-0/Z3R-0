@@ -1,8 +1,8 @@
 Hi, I’m @Z3R-0.
 
-I like to chase whatever coding concept catches my interest, though I may sometimes, usually..., struggle to bring them to a close...
+I like to chase whatever coding concept catches my interest, though I may _sometimes_ (read: **usually**) struggle to bring them to a close...
 
-My work is generally published under MIT license and I encourage anyone interested to take whatever they can use!
+My work is generally published under MIT license and I encourage anyone interested to take whatever they can use.
 
 I’m interested in:
 * The C family of languages, specifically C and C#/.NET
@@ -11,6 +11,7 @@ I’m interested in:
 * Open source programming
 * Development paradigms and philosophies
 * Software architecture
+* I also like to pretend I can do shader programming
 
 </br></br>
 
